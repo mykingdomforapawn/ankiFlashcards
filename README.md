@@ -1,5 +1,5 @@
 # ankiFlashcards
-> This entire repository is a working progress. Next up are some updates to the 'Geography.pckg' including rivers and mountains. Also, I'm working on some machine learning implementations which I want to put into flashcards as well.
+> This entire repository is a working progress. Next up are some updates to the 'Geography.apkg' including rivers and mountains. Also, I'm working on some machine learning implementations which I want to put into flashcards as well.
 
 
 ## Table of contents:
