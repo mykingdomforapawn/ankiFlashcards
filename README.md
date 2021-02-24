@@ -21,3 +21,9 @@ I like to know things. This way of processing and reviewing knowledge has proven
 
 ## What is in it?
 ### *Geography.apkg*
+- Geographical, financial and social data flashcards about countries
+- A lot of the data was accumulated using a [web scraper](https://github.com/mykingdomforapawn/webScraping)
+
+### *Programming.apkg*
+- Flashcards about programming applications and algorithm implementations (python)
+- Code specific flashcards are based on the [learnProgramming repository](https://github.com/mykingdomforapawn/learnProgramming)
