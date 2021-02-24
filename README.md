@@ -6,8 +6,8 @@
 - [What is it?](#what-is-it)
 - [Why did I do it?](#why-did-i-do-it)
 - [What is in it?](#what-is-in-it)
-  - [*Geopgraphy.apkg*](geography.apkg)
-  - [*Programming.apkg*](programming.apkg)
+  - [*Geopgraphy.apkg*](Geography.apkg)
+  - [*Programming.apkg*](Programming.apkg)
 
 ---
 
